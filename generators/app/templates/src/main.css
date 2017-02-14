@@ -1,0 +1,35 @@
+:root {
+  --background-color: #35465d;
+}
+
+body {
+  background-color: var(--background-color);
+  color: #fff;
+  font: 1.2rem/1.4 "Courier New", monospace;
+  text-align: center;
+}
+
+h1 {
+  background: url("/dist/assets/burger.gif") center no-repeat;
+  background-size: contain;
+  font: 400 4rem/1 "Chewy";
+  padding-top: 500px;
+}
+
+small {
+  bottom: 2em;
+  left: 0;
+  position: absolute;
+  width: 100%;
+
+  a {
+    border-bottom: 1px solid;
+    color: rgba(255, 255, 255, .6);
+    text-decoration: none;
+    transition: color .2s;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+}
