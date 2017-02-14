@@ -25,6 +25,7 @@
     "yeoman-assert": "^2.2.1",
     "eslint": "^3.1.1",
     "eslint-config-standard": "^6.1.0",
+    "eslint-plugin-standard": "^2.0.1",
     "gulp": "^3.9.0",
     "gulp-eslint": "^3.0.1",
     "gulp-exclude-gitignore": "^1.0.0",
