@@ -1,6 +1,6 @@
 {
   "name": "generator-webapp-simple",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generates a simple modern web app with Webpack, Babel, and PostCSS.",
   "homepage": "https://github.com/ngscheurich/generator-webapp-simple",
   "author": {
